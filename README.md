@@ -1,5 +1,3 @@
-# BOOK_RECOMMENDATION_SYSTEM
-A Machine Learning-based Book Recommendation System that uses content-based, collaborative, and keyword-based filtering to suggest personalized book recommendations based on user preferences.
 
 # 📚 BOOK_RECOMMENDATION_SYSTEM
 A Machine Learning-based project for recommending books to users using **content-based**, **collaborative**, and **keyword-based filtering** techniques based on their interests, genre preferences, and reading behavior.
