@@ -82,12 +82,12 @@ In today’s digital age, with an overwhelming volume of books available online,
 ## 📷 Visuals
 
 ### 📌 Block Diagram  
-<img src="images/BLOCKDIAGRAM.png" alt="Block Diagram" width="500"/>
+<img src="BLOCKDIAGRAM.png" alt="Block Diagram" width="500"/>
 
 ### 📈 Sample Outputs  
-<img src="images/result1.png" alt="Result 1" width="500" height="300"/>
-<img src="images/result2.png" alt="Result 2" width="500" height="300"/>
-<img src="images/result3.png" alt="Result 3" width="500" height="300"/>
+<img src="result1.png" alt="Result 1" width="500" height="300"/>
+<img src="result2.png" alt="Result 2" width="500" height="300"/>
+<img src="result3.png" alt="Result 3" width="500" height="300"/>
 
 ---
 
