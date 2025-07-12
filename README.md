@@ -84,7 +84,7 @@ In today’s digital age, with an overwhelming volume of books available online,
 ## 📷 Visuals
 
 ### 📌 Block Diagram  
-<img src="images/block_diagram.png" alt="Block Diagram" width="500"/>
+<img src="images/BLOCKDIAGRAM.png" alt="Block Diagram" width="500"/>
 
 ### 📈 Sample Outputs  
 <img src="images/result1.png" alt="Result 1" width="500" height="300"/>
@@ -128,6 +128,3 @@ In today’s digital age, with an overwhelming volume of books available online,
 - Future enhancements could further personalize and scale the system for broader audiences.
 
 ---
-
-## 📁 Repository Structure (Recommended)
-
